@@ -38,3 +38,6 @@ SP_MAX_P2=2
 SP_MAX_C1=2
 SP_MAX_C2=2
 ```
+
+- C2 snark算法优化  
+社区版不支持，请使用专业版
